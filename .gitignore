@@ -1,0 +1,8 @@
+# Temporales del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Temporales de PHP y logs
+*.log
+*.tmp
